@@ -1,0 +1,2 @@
+# nicr
+Fun with rust
